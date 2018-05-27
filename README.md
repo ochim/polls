@@ -1,5 +1,4 @@
 # polls
 
-## enviroment
-- python 3.6.2
-- django 1.11.3
+- I did [Django Tutorial](https://docs.djangoproject.com/ja/1.11/intro/tutorial01/)
+- I deployed this to Heroku.
